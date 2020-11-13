@@ -1,0 +1,8 @@
+Controls:
+W = move forward
+A = turn left
+S = move backwards
+D = turn right
+right shift = slows down car faster
+
+To run this program, run Main.py
