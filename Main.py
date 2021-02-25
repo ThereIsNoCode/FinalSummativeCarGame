@@ -5,7 +5,7 @@ from Map import Map
 py.init()
 WIDTH, HEIGHT = 1200, 900
 screen = py.display.set_mode((WIDTH, HEIGHT))  # Initiallizes screen
-py.display.set_caption("Car game, by Shaya Jabbarzadeh")
+py.display.set_caption("Car game")
 
 # Keeps the Game running smooth
 clock = py.time.Clock()
